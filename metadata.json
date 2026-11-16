@@ -1,0 +1,6 @@
+{
+  "name": "ScopeGuard",
+  "description": "B2B SaaS for web agencies, AI studios, and freelancers to streamline client onboarding and prevent scope creep with AI-assisted change order workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
